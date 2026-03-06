@@ -1,1 +1,2 @@
 Hello Jenkins Automation
+This is automatic build test
